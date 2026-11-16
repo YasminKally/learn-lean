@@ -1,0 +1,7 @@
+name = "GettingToKnowLean"
+version = "0.1.0"
+defaultTargets = ["gettingtoknowlean"]
+
+[[lean_lib]]
+name = "GettingToKnowLean"
+
