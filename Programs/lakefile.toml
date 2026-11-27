@@ -1,0 +1,7 @@
+name = "Programs"
+version = "0.1.0"
+defaultTargets = ["programs"]
+
+[[lean_exe]]
+name = "programs"
+root = "Main"
